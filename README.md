@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedalikhan316
 - 👀 I’m interested in HTML and java script
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently learning Javascript and HTML
 - 💞️ I’m looking to collaborate on Both these
 - 📫 How to reach me ...
 
